@@ -1,7 +1,7 @@
 <?php
 use App\App;
 
-class Test_App extends PHPUnit_Framework_TestCase
+class Test_App extends PHPUnit\Framework\TestCase
 {
     /**
      * @test
